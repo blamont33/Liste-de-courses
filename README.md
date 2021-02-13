@@ -1,9 +1,7 @@
 # Liste-de-courses
 Application pour générer facilement sa liste de courses
 
-Liste de courses
-
-Développement
+## Développement
 ________________________________________
 
 Back-end :
@@ -12,7 +10,7 @@ Back-end :
 Front End :
 -	Html /Css / Jquery / Bootstrap
 
-Fonctionnalités actuelles
+## Fonctionnalités actuelles
 ________________________________________
 
 - Afficher une liste de recettes
@@ -31,7 +29,7 @@ ________________________________________
 - Ajout manuel de produits à la liste affichée
 - Cocher les éléments de la liste
 
-Fonctionnalités en développement
+## Fonctionnalités en développement
 ________________________________________
 
 - Modification des recettes
@@ -39,7 +37,7 @@ ________________________________________
 - Recherche de recette par ingrédient
 - Calcul de calorie par recette
 
-Notes
+## Notes
 ________________________________________
 
 Ce projet a été créé pour un usage personnel et à des fins d’autoformation. 
