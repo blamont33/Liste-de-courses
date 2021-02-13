@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+#listeCreer{
+	height: 200px;
+	overflow: scroll;
+	margin-bottom: 10px;
+}
+
+#nomRecette{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#quantite{
+	width: 60px;
+	margin-left: 15px;
+}
+
+#ajouter{
+	
+	margin-left: 15px;
+	height: 30px;
+	line-height: 10px;
+}
+
+#unite{
+	margin-left: 15px;
+	height: 30px;
+}
+
+#newIngredient{
+	margin-top: 15px;
+
+}
+h3{
+	margin-top: 20px;
+}
+
+#listeMenu{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#formMenu{
+	max-width:200px;
+}
+#listeListe{
+	height: 600px;
+	overflow : scroll;
+}
+#formListe{
+	margin-top: 10px;
+}
+#buttonx{
+	
+   height: 20px;
+   text-align: center;
+   vertical-align: center;
+   line-height: 6px;
+
+   
+}
+#lienAccueil{
+	
+	height: 30px;
+	line-height: 15px;
+}
+h1{
+	color:blue;
+}
+#buttonx2{
+	 height: 30px;
+   text-align: center;
+   vertical-align: center;
+   line-height: 6px;
+}
+
+#showMenu{
+	margin-top : 20px;
+}
