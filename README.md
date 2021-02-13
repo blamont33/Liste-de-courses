@@ -2,7 +2,6 @@
 Application pour générer facilement sa liste de courses
 
 ## Développement
-________________________________________
 
 Back-end :
 -	Java / SQL Server
@@ -11,7 +10,6 @@ Front End :
 -	Html /Css / Jquery / Bootstrap
 
 ## Fonctionnalités actuelles
-________________________________________
 
 - Afficher une liste de recettes
 - Recherche dynamique des recettes par nom
@@ -30,7 +28,6 @@ ________________________________________
 - Cocher les éléments de la liste
 
 ## Fonctionnalités en développement
-________________________________________
 
 - Modification des recettes
 - Modification des menus après enregistrement
@@ -38,7 +35,6 @@ ________________________________________
 - Calcul de calorie par recette
 
 ## Notes
-________________________________________
 
 Ce projet a été créé pour un usage personnel et à des fins d’autoformation. 
 Il n’est pas destiné à être mis en ligne (pour l’instant). Son usage reste quand même fonctionnel et utile, il présente un réel intérêt dans l’organisation de mes repas et me fait gagner beaucoup de temps.
